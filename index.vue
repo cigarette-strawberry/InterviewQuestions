@@ -18,7 +18,7 @@
 				canvas: null,
 				ctx: null,
 				flag: false,
-				input: '面试官，你好，我叫吴晨'
+				input: '面试官，你好，我叫'
 			}
 		},
 		mounted() {
